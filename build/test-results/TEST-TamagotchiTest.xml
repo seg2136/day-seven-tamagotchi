@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TamagotchiTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2015-08-18T22:12:35" hostname="epicodus-101.local" time="0.001">
+  <properties/>
+  <testcase name="tamagotchi_instantiatesCorrectly" classname="TamagotchiTest" time="0.001"/>
+  <testcase name="timePasses_foodDecreasesByOne_9" classname="TamagotchiTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
